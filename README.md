@@ -1,2 +1,3 @@
-# Taewoo-Kim
-Goorm's Project
+# Goorm's Project
+Goorm's first Project
+# Tae Woo Kim
